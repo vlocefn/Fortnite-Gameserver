@@ -7,8 +7,6 @@ basically , there is vehicles on ch2 + , random loot , vbucks on kill , reboot c
 # Can I use it for my own ?
 Yes you can but if you dont mind give me credit
 
-# also this is reboot modified thx to milxnor ( https://github.com/Milxnor ) , this is for those who don't want to work/spend time don't know how to modify/code 
+also this is reboot modified thx to milxnor ( https://github.com/Milxnor ) , this is for those who don't want to work/spend time don't know how to modify/code 
 
-# How do I download 
-
-If you need help, open an issue and I will respond.
+# If you need help, open an issue and I will respond.
