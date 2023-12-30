@@ -1,2 +1,2 @@
-# FUTURE SKUNKED GS
-14.60 Skunked GS and 19.10
+# FUTURE GS
+
